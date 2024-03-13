@@ -1,0 +1,7 @@
+id=playintegrityfix
+name=Play Integrity Fix
+version=v1.0.0
+versionCode=1
+author=Kolassrexon J
+description=Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-14.
+updateJson=https://raw.githubusercontent.com/Kolass2004/Play-integrity-fix-magisk/main/update.json
